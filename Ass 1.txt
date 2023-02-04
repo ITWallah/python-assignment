@@ -1,0 +1,75 @@
+Que.1 Who developed python programming language?
+A=1. Guido van Rossum. 
+
+Que.2 Which type of programming does python support?
+A=2. Object-oriented programming and structured programming are fully supported.
+
+Que.3 Is python case sensitive when dealing with identifiers?
+A=3. Yes, Python is a case-sensitive language.
+
+Que.4 What is the correct extension of python file?
+A=4.  .py extension.
+
+Que.5 Is python code compiled or interpreted?
+A=5. Python is an interpreted language.
+
+Que.6 Name a few blocks of code used to define in python language?
+A=6. Indentation is used to define a block of code in python. 
+
+Que.7 State a character used to give single-line comments in python?
+A=7. Hash character(#).
+
+Que.8 Mention functions which can help us to find the version of python that we are currently working on?
+A=8. The function sys. version can help us to find the version of python that we are currently working on.
+
+Que.9 Python supports the creation of anonymus functions at runtime, using a construct called?
+A=9. Python supports to make anonymous functions which are not bound to a name(@ runtime). It uses a construct called "lambda" .
+
+Que.10 What does pip standsfor in python?
+A=10. preferred installer program.
+
+Que.11 Mention a few built-in functions in python?
+A=11
+• print( ) function.
+
+• type( ) function.
+
+• input( ) function.
+
+• abs( ) function.
+
+• pow( ) function.
+
+• dir( ) function.
+
+• sorted( ) function.
+
+• max( ) function.
+
+Que.12 What is the maximum possible length of an identifier in python?
+A=12. An identifier can have a maximum length of 79 characters in Python. 
+
+Que.13 What are the benefits of using python?
+A=13.
+• Data science.
+• Scientific and mathematical computing.
+• Web development.
+• Finance and trading.
+• System automation and administration.
+• Computer graphics.
+• Basic game development.
+• Security and penetration testing.
+
+Que.14 How is memory managed in python?
+A=14. Memory management in Python involves a private heap containing all Python objects and data structures.
+
+Que.15 How to install python in windows and set path variables?
+A=15.
+• 15.Right-clicking This PC and going to Properties.
+• Clicking on the Advanced system settings in the menu on the left.
+• Clicking on the Environment Variables button o​n the bottom right.
+• In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+• Clicking on New and entering Python’s install directory.
+
+Que.16 Is indentation required in python?
+A=16. the indentation in Python is very important.
